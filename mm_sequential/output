@@ -1,0 +1,12 @@
+~$ gcc sequentialmm.c -o sequentialmm
+~$ ./sequentialmm
+sh: 1: cls: not found
+enter the number of row=2
+enter the number of column=2
+enter the first matrix element=
+2 3 4 1
+enter the second matrix element=
+3 1 5 6
+Resultant matrix=
+21      20
+17      10
